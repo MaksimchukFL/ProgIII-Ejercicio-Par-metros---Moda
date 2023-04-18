@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\bin\Debug\net6.0\FuncionModa.exe
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\bin\Debug\net6.0\FuncionModa.deps.json
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\bin\Debug\net6.0\FuncionModa.runtimeconfig.json
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\bin\Debug\net6.0\FuncionModa.dll
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\bin\Debug\net6.0\FuncionModa.pdb
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.AssemblyInfo.cs
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.dll
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\refint\FuncionModa.dll
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.pdb
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\FuncionModa.genruntimeconfig.cache
+C:\Users\franc\Desktop\FranProgramasC#\FuncionModa\obj\Debug\net6.0\ref\FuncionModa.dll
